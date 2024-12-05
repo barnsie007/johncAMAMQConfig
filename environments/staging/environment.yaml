@@ -65,7 +65,7 @@ app:
     - name: httpEndpoint_host_36
       value: "*"
     - name: server1CF_ghettoes1Node04_server1_cf_host
-      value: "ubqm-aaee.qm1230.private.us-east.mq2.appdomain.cloud"
+      value: "jc-c1b0.qm1230.private.us-east.mq2.appdomain.cloud"
     - name: server1CF_ghettoes1Node04_server1_cf_queueManager
       value: "UBQM"
     - name: server1CF_ghettoes1Node04_server1_cf_channel

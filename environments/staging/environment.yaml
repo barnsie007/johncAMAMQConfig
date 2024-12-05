@@ -67,7 +67,7 @@ app:
     - name: server1CF_ghettoes1Node04_server1_cf_host
       value: "jc-c1b0.qm1230.private.us-east.mq2.appdomain.cloud"
     - name: server1CF_ghettoes1Node04_server1_cf_queueManager
-      value: "UBQM"
+      value: "JC"
     - name: server1CF_ghettoes1Node04_server1_cf_channel
       value: "CLOUD.APP.SVRCONN"
     - name: httpEndpoint_port_36

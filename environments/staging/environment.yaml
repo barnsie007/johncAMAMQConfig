@@ -59,13 +59,13 @@ app:
     - name: sever1Queue_ghettoes1Node04_server1_MQQueue_1717780588605_baseQueueName
       value: "DEV.QUEUE.1"
     - name: server1CF_ghettoes1Node04_server1_cf_port
-      value: "2324"
+      value: "443"
     - name: NodeDefaultSSLSettings_ghettoes1Node04Cell_SSLConfig_ghettoes1Node04_1_sslProtocol
       value: "TLS"
     - name: httpEndpoint_host_36
       value: "*"
     - name: server1CF_ghettoes1Node04_server1_cf_host
-      value: "9.46.110.162"
+      value: "ubqm-aaee.qm1230.private.us-east.mq2.appdomain.cloud"
     - name: server1CF_ghettoes1Node04_server1_cf_queueManager
       value: "UBQM"
     - name: server1CF_ghettoes1Node04_server1_cf_channel
